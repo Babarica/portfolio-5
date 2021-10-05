@@ -208,7 +208,7 @@ body a {
 }
 
 .about__box::after {
-  background-image: url(img/bout/left.svg);
+  background-image: url(../img/bout/left.svg);
   top: 19px;
   left: 19px;
 }
@@ -303,7 +303,7 @@ body a {
 
 .about__preview .about__images-box .about__dot::before {
   content: "";
-  background-image: url("img/line.svg");
+  background-image: url("../img/line.svg");
   width: 244px;
   height: 122px;
   position: absolute;
@@ -488,25 +488,25 @@ body a {
 }
 
 .footer__item-link--message::before {
-  background-image: url("img/12/1.svg");
+  background-image: url("../img/12/1.svg");
   width: 17px;
   top: 1px;
 }
 
 .footer__item-link--facebook::before {
-  background-image: url("img/12/2.svg");
+  background-image: url("../img/12/2.svg");
 }
 
 .footer__item-link--instagram::before {
-  background-image: url("img/12/3.svg");
+  background-image: url("../img/12/3.svg");
 }
 
 .footer__item-link--youtube::before {
-  background-image: url("img/12/4.svg");
+  background-image: url("../img/12/4.svg");
 }
 
 .footer__item-link--email::before {
-  background-image: url("img/12/5.svg");
+  background-image: url("../img/12/5.svg");
   height: 13px;
   top: 2px;
 }
